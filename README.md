@@ -12,4 +12,4 @@ This creates an executable file of the name test_file. <br/>
 For example, if the program to be run is palindrome.asm <br/>
 nasm -f elf palindrome.asm <br/>
 ld palindrome.o -o test <br/>
-./test <br/>v
+./test <br/>
